@@ -52,3 +52,7 @@ body{
     text-align: center;
     padding-top: 2px;
     }
+
+    .col-sm-9 {
+        position: sticky;
+    }
