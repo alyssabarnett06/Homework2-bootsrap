@@ -1,11 +1,12 @@
 .container-fluid {
     height: 100%;
     width: 100%;
+    border-radius: 10px 10px 5px grey;
 }
 
 .container{
-    border: 2px solid black;
-    background-color: whitesmoke;
+    box-shadow: 10px 10px 5px grey;
+    background-color: white;
 
 }
 
@@ -61,3 +62,19 @@ body{
     .col-sm-9 {
         position: sticky;
     }
+
+    h2 {
+        background-color: #4aaaa5;
+        font-size: 2rem;
+        padding: 10pt;
+        width: max-content;
+
+    }
+
+    hr {
+        margin-top: 0;
+    }
+   
+.image{
+    padding: 15px;
+}
